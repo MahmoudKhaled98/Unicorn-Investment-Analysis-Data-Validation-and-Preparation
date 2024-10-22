@@ -76,7 +76,7 @@ This project highlights the importance of data validation and preparation in any
 1. **Clone the repository**:
 
     ```bash
-    git clone <https://your-repo-url>
+    git clone <https://github.com/MahmoudKhaled98/Unicorn-Investment-Analysis-Data-Validation-and-Preparation.git>
     ```
 
 2. **Install the required dependencies**:
